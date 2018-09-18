@@ -48,3 +48,6 @@ button:hover {
   box-shadow: 0 10px #ba5797;
   transform: translateY(4px);
 }
+
+
+button:focus {outline:0;}
