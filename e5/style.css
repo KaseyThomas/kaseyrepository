@@ -1,0 +1,13 @@
+header {margin-left: 50px;
+		font-family: 'Playfair Display', serif;
+		color: white;
+		font-size: 50px;}
+
+ol {margin: 50px 100px;
+	font-family: 'Playfair Display', serif;
+	line-height: 30px;
+	color: white;
+	font-size: 20px;
+	}
+
+body {background-color: tomato;}

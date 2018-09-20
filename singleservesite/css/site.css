@@ -1,5 +1,10 @@
 body {
 	background-color: #ffc4ea;
+   background-image:
+    radial-gradient(#ff4dc1 20%, transparent 0), 
+    radial-gradient(#ffb3e4 50%, transparent 0);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
 }
 button {
 	background-color: hotpink;
