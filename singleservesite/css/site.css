@@ -10,12 +10,16 @@ button {
 	background-color: hotpink;
 	width: 400px;
 	height: 200px;
-	font-size: 50px;
-	font-family: 'Baloo Tammudu', cursive;
 	border-radius: 50px;
-	color: #ffdbed;
 	margin: 200px calc((100vw - 400px) / 2);
   box-shadow: 0 9px #ba5797;
+}
+
+p {color: #ffdbed;
+  font-size: 50px;
+  font-family: 'Baloo Tammudu', cursive;
+  margin-top: 50px;
+
 }
 
 button:hover {
