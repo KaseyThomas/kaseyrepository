@@ -1,7 +1,38 @@
 
+.b0 {background-color: #f0ffd6;}
+.b1 {background-color: #ebffc6;}
+.b2 {background-color: #e8ffbc;}
+.b3 {background-color: #e3ffad;}
+.b4 {background-color: #d9f998;}
+.b5 {background-color: #c5e585;}
+.b6 {background-color: #b9d87b;}
+.b7 {background-color: #abc970;}
+.b8 {background-color: #9cb763;}
+.b9 {background-color: #93ad5d;}
+.b10 {background-color: #88a055;}
+.b11 {background-color: #7b914d;}
+.b12 {background-color: #748947;}
+.b13 {background-color: #697c3f;}
+.b14 {background-color: #5e7038;}
+.b15 {background-color: #536330;}
+.b16 {background-color: #4a592a;}
+.b17 {background-color: #435126;}
+.b18 {background-color: #435126;}
+.b19 {background-color: #2e3a19;}
+.b20 {background-color: #283315;}
+.b21 {background-color: #1d260f;}
+.b22 {background-color: #131909;}
+.b23 {background-color: #131909;}
+.b24 {background-color: #000000;}
 
-body {background-color: #aac870;}
+.p16, .p17, .p18 {color: #233307;}
+.p19 {color: #182304;}
 
+.lnk0, .lnk1, .lnk2, .lnk3 {color: #badb7d;}
+
+.lnk4 {color: #e8ffbf;}
+
+.lnk5, .lnk6 {color: #e0ffa8}
 
 p {font-family: 'Niramit', sans-serif;
 font-size: 50px;
@@ -17,9 +48,18 @@ margin-right: 200px;
 margin-top: 50px;
 color: #334909;}
 
-a {color: #99ff89;
+h3 {font-size: 40px;
+	font-family: 'Niramit', sans-serif;
+margin-left: 100px;
+margin-right: 200px;
+margin-top: 50px;
+margin-bottom: -55px;
+color: #334909;
+line-height: -50px;}
+
+a {color: #b3f48b;
 text-decoration: none;}
 
-a:hover {color: #22ff00;
+a:hover {color: #74ad51;
 	text-decoration: none;
 	transition: all .5s ease;}
