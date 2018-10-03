@@ -1,3 +1,4 @@
+body {line-height: 55px;}
 
 .b0 {background-color: #f0ffd6;}
 .b1 {background-color: #ebffc6;}
@@ -53,7 +54,7 @@ h3 {font-size: 40px;
 margin-left: 100px;
 margin-right: 200px;
 margin-top: 50px;
-margin-bottom: -55px;
+margin-bottom: -5px;
 color: #334909;
 line-height: -50px;}
 
