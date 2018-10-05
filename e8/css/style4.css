@@ -1,0 +1,40 @@
+
+body {margin-left: 220px;
+	  margin-right: 420px;
+	  margin-top: 90px;
+	  background-color: #b4a7c6;}
+
+
+h1 {font-family: 'Titillium Web', sans-serif;;
+	font-weight: 900;
+	font-size: 65px;
+	margin-right: 100px;
+	margin-bottom: 0;
+	line-height: 60px;
+	color: #554a59;
+	margin-top: 0;}
+
+h2 {font-family: 'Titillium Web', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	color: #f7f2ff;
+	margin-bottom: 0;}
+
+h3 {font-family: 'Titillium Web', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	margin: 0;
+	color:#f7f2ff;
+	margin-bottom: 5px;}
+
+p {font-size: 17px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3e3642;}
+
+.title {top: 200px;
+	left: -300px;
+	position: absolute;
+	height: 200px;
+	width: 900px;
+	transform: rotate(-90deg);
+	background-color: ;}

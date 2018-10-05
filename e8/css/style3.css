@@ -1,0 +1,39 @@
+
+body {margin-left: 500px;
+	  margin-right: 120px;
+	  margin-top: 90px;
+	  background-color: #c5c7db;}
+
+
+h1 {font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	font-size: 65px;
+	margin-right: 100px;
+	margin-bottom: 0;
+	line-height: 60px;
+	color: #f4f5ff;
+	margin-top: 0;}
+
+h2 {font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	color: #6b6d7f;
+	margin-bottom: 0;}
+
+h3 {font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	margin: 0;
+	color: #525a7f;
+	margin-bottom: 5px;}
+
+p {font-size: 17px;
+	font-family: 'Raleway', sans-serif;}
+
+.title {top: 200px;
+	left: -30px;
+	position: absolute;
+	height: 200px;
+	width: 900px;
+	transform: rotate(-90deg);
+	background-color: ;}

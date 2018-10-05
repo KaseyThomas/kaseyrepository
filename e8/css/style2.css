@@ -1,0 +1,31 @@
+
+body {margin-left: 100px;
+	  margin-right: 170px;
+	  margin-top: 20px;
+	  background-color: #b7ae8b;}
+
+
+h1 {font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	font-size: 65px;
+	margin-right: 100px;
+	margin-bottom: 0;
+	line-height: 60px;
+	color: #544d35;
+	margin-top: 0;}
+
+h2 {font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 40px;
+	color: #7f7552;
+	margin-bottom: 0;}
+
+h3 {font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+	font-size: 25px;
+	margin-bottom: 0;
+	color: white}
+
+p {font-size: 17px;
+	font-family: 'Raleway', sans-serif;
+	column-count: 2;}
