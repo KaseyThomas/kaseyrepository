@@ -23,11 +23,19 @@ body {line-height: 55px;}
 .b20 {background-color: #283315;}
 .b21 {background-color: #1d260f;}
 .b22 {background-color: #131909;}
-.b23 {background-color: #131909;}
-.b24 {background-color: #000000;}
+.b23 {background-color: #000000;}
+.b24 {background-color: #f0ffd6;}
 
-.p16, .p17, .p18 {color: #233307;}
-.p19 {color: #182304;}
+.p14 {color: #739b22;}
+.p15 {color: #86b22c;}
+.p16 {color: #9bc93c;}
+.p17 {color: #b0e04e;}
+.p18 {color: #bfed61;}
+.p19 {color: #d2fc7b;}
+.p20 {color: #dbff91;}
+.p21 {color: #e3ffaa;}
+.p22 {color: #ecffc6;}
+.p23 {color: #f6ffe5;}
 
 .lnk0, .lnk1, .lnk2, .lnk3 {color: #badb7d;}
 
