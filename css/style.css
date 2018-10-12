@@ -1,7 +1,8 @@
 	body {background-color: #ffeaf5;
 		background-image: linear-gradient(#ffeaf5, #9ecfff);
 		background-repeat: no-repeat;
-		
+		height: 100%;
+		background-attachment: fixed;
 		}	
 
 			a {
@@ -53,6 +54,11 @@
   				
    				
 			}
+
+		.center {display: block;
+    			margin-left: auto;
+    			margin-right: auto;
+    			width: 50%;}
 
 
 
