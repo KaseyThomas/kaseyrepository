@@ -27,12 +27,23 @@ img {float: right;
     display: table;
 }
 
-.clearfix {margin-left: 100px;}
+.clearfix {margin-left: 100px;
+			box-sizing: border-box;}
 
 
 figcaption {font-size: 2vw;
-			color: #ffe2e9;}
+			color: #ffe2e9;
+			width: 50%;}
 figure {padding: 5px;}
 
-@media screen and (max-width: 100%)
+ul {list-style-type: none;
+	margin-left: 65px;
+	font-size: 3vw;}
+
+li {line-height: 1.5;}
+
+a:hover {color: #ffd8e1}
+a:visited {color: #ff3866;}
+
+
 
