@@ -20,3 +20,19 @@ img {float: right;
 	padding-right: 50px;
 	padding-bottom: 10px;}
 
+.img-container {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    display: table;
+}
+
+.clearfix {margin-left: 100px;}
+
+
+figcaption {font-size: 2vw;
+			color: #ffe2e9;}
+figure {padding: 5px;}
+
+@media screen and (max-width: 100%)
+
