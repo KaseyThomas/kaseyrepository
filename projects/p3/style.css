@@ -1,1 +1,11 @@
-body {background-color: #fbbc86}
+body {background-color: #fbbc86;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-right: 100px;
+	font-size: 22px;}
+
+h1 {background-color: #fee6aa;}
+
+h3 {background-color: #fee6aa;}
+
+h5 {background-color: #a5c8e6;}
