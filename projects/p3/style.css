@@ -2,10 +2,21 @@ body {background-color: #fbbc86;
 	margin-left: 100px;
 	margin-top: 50px;
 	margin-right: 100px;
-	font-size: 22px;}
+	font-size: 2vw;
+	font-family: 'Open Sans', sans-serif;}
 
-h1 {background-color: #fee6aa;}
+h1 {background-color: #fee6aa;
+	color: #a1bbf6;
+	font-weight: 800;}
 
-h3 {background-color: #fee6aa;}
+h3 {background-color: #fee6aa;
+	color: #a1bbf6;
+	font-weight: 700;}
 
-h5 {background-color: #a5c8e6;}
+h5 {background-color: #a5c8e6;
+	color: #fee6aa;}
+
+p {color: #ffffff;}
+
+div {float: left;}
+
