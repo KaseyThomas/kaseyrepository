@@ -17,7 +17,7 @@ p {color: #ffe2e9;
 
 img {float: right;
 	padding-left: 10px;
-	padding-right: 50px;
+	padding-right: 100px;
 	padding-bottom: 10px;}
 
 .img-container {
@@ -44,6 +44,12 @@ li {line-height: 1.5;}
 
 a:hover {color: #ffd8e1}
 a:visited {color: #ff3866;}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
 
 
 
