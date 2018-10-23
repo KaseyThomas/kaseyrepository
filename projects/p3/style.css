@@ -59,11 +59,11 @@ a:visited {color: #ff329c;}
 		color: #fff6f8;
 		margin-left: 20px;}
 
-	h2 {color: #c43553;
+	h2 {color: #ff7c96 ;
 	font-size: 3vw;
 	margin-left: 20px;}
 
-p {color: #ff7c96;
+p {color: #c43553;
    font-size: 3vw;
 	margin-left: 20px;
 	margin-right: 20px;}
@@ -89,16 +89,13 @@ ul {list-style-type: none;
 
 li {line-height: 1.5;}
 
-a {color: ul {list-style-type: none;
-	margin-left: 20px;
+a {margin-left: 20px;
 	font-size: 3vw;}
 
 li {line-height: 1.5;}
 
-a {color: #ff3866;}
-a:hover {color: #ffd8e1}
-a:visited {color: #ff329c;}
-a:hover {color: #ffd8e1}
+a {color: #ff547c;}
+a:hover {color: #ff8ca4;}
 a:visited {color: #ff329c;}
 
 }
