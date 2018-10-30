@@ -1,0 +1,230 @@
+body {background-color: #590000;}
+.triangle1 {position: absolute;
+	margin-top: -10px;
+	margin-left: -10px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 300px solid white;
+}
+.triangle2 {position: absolute;
+	margin-top: -10px;
+	margin-left: 120px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle3 {position: absolute;
+	margin-top: -10px;
+	margin-left: 230px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle4 {position: absolute;
+	margin-top: -10px;
+	margin-left: 340px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle5 {position: absolute;
+	margin-top: -10px;
+	margin-left: 450px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle6 {position: absolute;
+	margin-top: -10px;
+	margin-left: 560px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle7 {position: absolute;
+	margin-top: -10px;
+	margin-left: 670px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle8 {position: absolute;
+	margin-top: -10px;
+	margin-left: 780px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle9 {position: absolute;
+	margin-top: -10px;
+	margin-left: 890px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle10 {position: absolute;
+	margin-top: -10px;
+	margin-left: 1000px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 150px solid white;
+}
+.triangle11 {position: absolute;
+	margin-top: -10px;
+	margin-left: 1110px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 300px solid white;
+}
+.triangle1b {position: absolute;
+	margin-top: 450px;
+	margin-left: -10px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 300px solid white;
+}
+.triangle2b {position: absolute;
+	margin-top: 600px;
+	margin-left: 120px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle3b {position: absolute;
+	margin-top: 600px;
+	margin-left: 230px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle4b {position: absolute;
+	margin-top: 600px;
+	margin-left: 340px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle5b {position: absolute;
+	margin-top: 600px;
+	margin-left: 450px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle6b {position: absolute;
+	margin-top: 600px;
+	margin-left: 560px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle7b {position: absolute;
+	margin-top: 600px;
+	margin-left: 670px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle8b {position: absolute;
+	margin-top: 600px;
+	margin-left: 780px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle9b {position: absolute;
+	margin-top: 600px;
+	margin-left: 890px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle10b {position: absolute;
+	margin-top: 600px;
+	margin-left: 1000px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 150px solid white;
+}
+.triangle11b {position: absolute;
+	margin-top: 450px;
+	margin-left: 1110px;
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 300px solid white;
+}
+.center {position: absolute;
+		 height: 200px;
+		 width: 750px;
+		 /*background-color: blue;*/
+		 margin-top: 295px;
+		 margin-left: 250px;
+}
+p {font-family: 'Spicy Rice', cursive;
+	font-size: 100px;
+	margin: 0 auto;
+	position: relative;
+	color: #ad0000;
+	text-shadow: 4px 4px #420000;}
+.blood1 {position: absolute;
+		margin-top: 260px;
+		margin-left: 40px;}
+.blood2 {position: absolute;
+		margin-top: 350px;
+		margin-left: 70px;}
+.blood3 {position: absolute;
+		margin-top: 250px;
+		margin-left: 50px;}
+.center {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
