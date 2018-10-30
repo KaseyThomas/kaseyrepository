@@ -5,18 +5,18 @@ body {background-color: #ff8ca4;
 #container {
     width: 80vw;
     margin: 0 auto;
-    /*background-color: green;*/
+    
 }
 .headline {
     width: 50vw;
     margin: 0 auto;
-    /*background-color: white;*/
+   
 }
 .body-text {
     width: 60vw;
     margin: 0 auto;
     color: #ffe2e9;
-    /*background-color: white;*/
+    
 }
 .large-img {
     width: 50vw;
@@ -84,19 +84,8 @@ ul {list-style-type: none;}
     .body-text {
         width: 90vw;
     }
-    .large-img {
-        width: 90vw;
-        padding-top: 50px;
-    }
     h1 {
         font-size: 4.6em;
-    }
-    p.intro {
-        font-size: 1.2em;
- 
-    }
-    p.disclaimer {
-        font-size: .8em;
     }
     p {
         font-size: 1em;
