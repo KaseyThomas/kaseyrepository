@@ -208,7 +208,7 @@ p {font-family: 'Spicy Rice', cursive;
 	font-size: 100px;
 	margin: 0 auto;
 	position: relative;
-	color: #ad0000;
+	color: #ff6923;
 	text-shadow: 4px 4px #420000;}
 .blood1 {position: absolute;
 		margin-top: 260px;
@@ -219,7 +219,7 @@ p {font-family: 'Spicy Rice', cursive;
 .blood3 {position: absolute;
 		margin-top: 250px;
 		margin-left: 50px;}
-.center {
+/*.center {
   animation: blinker 1s linear infinite;
 }
 
