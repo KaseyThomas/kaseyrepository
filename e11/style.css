@@ -1,4 +1,4 @@
-body {background-color: #590000;}
+body {background-color: #350202;}
 .triangle1 {position: absolute;
 	margin-top: -10px;
 	margin-left: -10px;
@@ -15,7 +15,7 @@ body {background-color: #590000;}
 	height: 0;
 	border-left: 70px solid transparent;
 	border-right: 70px solid transparent;
-	border-top: 150px solid white;
+	border-top: 250px solid white;
 }
 .triangle3 {position: absolute;
 	margin-top: -10px;
@@ -87,7 +87,7 @@ body {background-color: #590000;}
 	height: 0;
 	border-left: 70px solid transparent;
 	border-right: 70px solid transparent;
-	border-top: 150px solid white;
+	border-top: 250px solid white;
 }
 .triangle11 {position: absolute;
 	margin-top: -10px;
@@ -108,13 +108,13 @@ body {background-color: #590000;}
 	border-bottom: 300px solid white;
 }
 .triangle2b {position: absolute;
-	margin-top: 600px;
+	margin-top: 500px;
 	margin-left: 120px;
 	width: 0;
 	height: 0;
 	border-left: 70px solid transparent;
 	border-right: 70px solid transparent;
-	border-bottom: 150px solid white;
+	border-bottom: 250px solid white;
 }
 .triangle3b {position: absolute;
 	margin-top: 600px;
@@ -180,13 +180,13 @@ body {background-color: #590000;}
 	border-bottom: 150px solid white;
 }
 .triangle10b {position: absolute;
-	margin-top: 600px;
+	margin-top: 500px;
 	margin-left: 1000px;
 	width: 0;
 	height: 0;
 	border-left: 70px solid transparent;
 	border-right: 70px solid transparent;
-	border-bottom: 150px solid white;
+	border-bottom: 250px solid white;
 }
 .triangle11b {position: absolute;
 	margin-top: 450px;
@@ -209,7 +209,7 @@ p {font-family: 'Spicy Rice', cursive;
 	margin: 0 auto;
 	position: relative;
 	color: #ff6923;
-	text-shadow: 4px 4px #420000;}
+	text-shadow: 6px 6px #160000;}
 .blood1 {position: absolute;
 		margin-top: 260px;
 		margin-left: 40px;}
