@@ -49,12 +49,21 @@ ul {list-style-type: none;
     margin-left: -40px;
     margin-top: 0;}
 
-.symbol {padding-top: 10vw;
+.symbol {padding-top: 0vw;
+    display: block;
 }
 .symbol img {max-width: 60%;
             margin: 0 20%;
 }
 .imgs {margin-top: 20px;
+}
+.closer {width: 70vw;
+        margin: 0 auto;
+}
+.closer h1 {margin-bottom: 0;}
+h3 {text-align: center;
+    margin-top: -10px;
+    color: #fff6f8;
 }
  
 @media only screen and (max-width: 1024px) {
@@ -76,6 +85,10 @@ ul {list-style-type: none;
     p {
         font-size: .8em;
     }
+    .symbol {padding-top: 0vw;
+    display: block;
+}
+    
 }
  
 @media only screen and (max-width: 768px) {
