@@ -41,7 +41,8 @@ a {color: #ff3866;}
 a:hover {color: #ffd8e1}
 a:visited {color: #ff329c;}
 
-ul {list-style-type: none;}
+ul {list-style-type: none;
+    margin-left: -30px;}
 
 .symbol {padding-top: 10vw;
 }
