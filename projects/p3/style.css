@@ -51,6 +51,7 @@ ul {list-style-type: none;
 
 .symbol {padding-top: 0vw;
     display: block;
+    margin-bottom: 30px;
 }
 .symbol img {max-width: 60%;
             margin: 0 20%;
@@ -60,7 +61,9 @@ ul {list-style-type: none;
 .closer {width: 70vw;
         margin: 0 auto;
 }
-.closer h1 {margin-bottom: 0;}
+.closer h1 {margin-bottom: 0;
+            margin-top: 0;
+}
 h3 {text-align: center;
     margin-top: -10px;
     color: #fff6f8;
