@@ -1,5 +1,5 @@
 body {background-color: #ffaabc;
-    font-size: 24px;
+    font-size: 27px;
     font-family: 'Montserrat', sans-serif;
 }
 #container {
@@ -78,7 +78,7 @@ ul {list-style-type: none;}
         width: 90vw;
     }
     .body-text {
-        width: 80vw;
+        width: 90vw;
     }
     h1 {
         font-size: 4.6em;
