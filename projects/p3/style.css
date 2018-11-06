@@ -4,27 +4,23 @@ body {background-color: #ffaabc;
 }
 #container {
     width: 80vw;
-    margin: 0 auto;
-    
+    margin: 0 auto;  
 }
 .headline {
     width: 70vw;
-    margin: 0 auto;
-   
+    margin: 0 auto;  
 }
 .body-text {
     width: 70vw;
     margin: 0 auto;
-    color: #ffe2e9;
-    
+    color: #ffe2e9;  
 }
 img {
-    max-width: 100%;
+    width: 100%;
 }
 .fist {padding-top: 3px;
         padding-bottom: 10px;
-    min-width: 100%;
-    
+    min-width: 100%; 
 }
 h1 {text-align: center;
     font-size: 5.5em;
@@ -35,7 +31,6 @@ h1 {text-align: center;
 h2 {color: #ff547c;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 0;
-
 }
 p {font-size: .9em;
     color: #992c43;
@@ -58,9 +53,11 @@ ul {list-style-type: none;
             margin: 0 20%;
 }
 .imgs {margin-top: 20px;
-}
+         display: block;}
+
 .closer {width: 70vw;
         margin: 0 auto;
+        margin-top: 50px;
 }
 .closer h1 {margin-bottom: 0;
             margin-top: 0;
@@ -68,6 +65,9 @@ ul {list-style-type: none;
 h3 {text-align: center;
     margin-top: -10px;
     color: #fff6f8;
+}
+.fem {margin-top: -3px;
+    margin-bottom: 25px;
 }
  
 @media only screen and (max-width: 1024px) {
@@ -112,6 +112,6 @@ h3 {text-align: center;
         font-size: 4.6em;
     }
     p {
-        font-size: .9em;
+        font-size: 1em;
     }
 }
