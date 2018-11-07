@@ -26,8 +26,7 @@ h1 {text-align: center;
     font-size: 5.5em;
     font-family: 'Sofia', cursive;
     color: #fff6f8;
-    margin-bottom: 0;
-}
+    margin-bottom: 0;}
 h2 {color: #ff547c;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 0;
@@ -108,8 +107,9 @@ h3 {text-align: center;
     .body-text {
         width: 90vw;
     }
+    .closer {width: 90vw;}
     h1 {
-        font-size: 4.6em;
+        font-size: 4.4em;
     }
     p {
         font-size: .89em;
