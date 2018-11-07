@@ -97,7 +97,7 @@ h3 {text-align: center;
  
 @media only screen and (max-width: 768px) {
     body {
-        font-size: 15px;
+        font-size: 18px;
     }
     #container {
         width: 90vw;
