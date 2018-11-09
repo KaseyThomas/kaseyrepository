@@ -1,0 +1,46 @@
+body {padding: 0;
+	margin: 0;}
+
+.box {width: 100vw;
+		height: 50vh;}
+#title {background-color: #dbced4;}
+.first {background-color: #ff8ec5;}
+.second {background-color: #131614;}
+.third {background-color: #ff4c52;}
+.fourth {background-color: #4286f4;}
+.fifth {background-color: #45e05f;}
+
+h1, h2 {text-align: center;
+		margin: 0;
+		padding-top: 20vh;
+		font-size: 6vw;
+		font-family: 'Ubuntu', sans-serif;
+		text-transform: uppercase;
+		color: white;}
+
+.pink {cursor: pointer;
+		transition-property: : all 3s ease;}
+.blue {cursor: pointer;
+		transition: all 5s ease;}
+.red {cursor: pointer;
+		transition: all 2s ease;}
+.black {cursor: pointer;
+		transition: all 5s ease;}
+.green {cursor: pointer;
+		transition: all 3s ease;}
+
+.pinkcolor {background-color: #e060d7;
+			transition: all 2s ease;}
+.bluecolor {color: #aad9ff;
+			font-size: 15vw;
+			text-align: center;
+			padding-top: 5vh;
+			transition: all 5s ease;}
+.redcolor {background-color: #ff0f27;
+			}
+.blackcolor {color: #4f4a4a;
+			font-size: 15vw;
+			text-align: center;
+			padding-top: 5vh;
+			transition: all 5s ease;}
+.greencolor {background-color: #63f922;}
