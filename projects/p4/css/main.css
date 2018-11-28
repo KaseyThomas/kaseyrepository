@@ -63,10 +63,10 @@ li {display: inline-block;}
 }
 
 #intro, #links {
-	margin-left: 10vw;
-	margin-right: 10vw;
+	margin-left: 15vw;
+	margin-right: 15vw;
 	font-family: 'Playfair Display', serif;
-	font-size: 1.2em;
+	font-size: 1.5em;
 }
 
 #bar {
@@ -94,9 +94,6 @@ a {
 li {
 	text-decoration: none;
 	list-style-type: none;
-}
-.sitelinks {
-	margin-left: -3vw;
 }
 .aboutimg1 {
 	max-width: 100%;
@@ -390,3 +387,35 @@ li {display: inline-block;}
 	margin-top: 10vw;
 }
 #pagebar li {margin-left: 2vw;}
+
+
+@media only screen and (max-width: 1024px) {
+	#intro, #links {
+	margin-left: 15vw;
+	margin-right: 15vw;
+	font-family: 'Playfair Display', serif;
+	font-size: 1.3em;
+}
+.describe {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	margin: 0;
+	padding: 0;
+	font-size: .7em;
+}
+}
+@media only screen and (max-width: 768px) {
+	#intro, #links {
+	margin-left: 6vw;
+	margin-right: 6vw;
+	font-family: 'Playfair Display', serif;
+	font-size: 1em;
+}
+.describe {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	margin: 0;
+	padding: 0;
+	font-size: .5em;
+}
+}
