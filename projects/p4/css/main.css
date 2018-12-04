@@ -18,8 +18,7 @@ body {
 		margin: 0;
 		padding: 0;
 		background-color: #688184;
-		height: 5vw;
-		font-size: 3vw;
+		font-size: 2.5vw;
 		font-family: 'Playfair Display', serif;
 }
 a {
@@ -38,8 +37,9 @@ li {
 	text-decoration: none;
 	list-style-type: none;
 }
+
 h1 {
-	font-size: 3em;
+	font-size: 5vw;
 	text-align: center;
 }
 h2 {
@@ -50,9 +50,13 @@ h2 {
 .navbar li {
 			display: inline-block;
 }
-.navbar li a {
+.navbar li {
 	text-decoration: none;
-	padding: 3vw;
+	padding:  1vw 3vw;
+}
+.navbar li:first-of-type {
+	text-decoration: none;
+	padding-left: 0;
 }
 
 .describe {
@@ -60,12 +64,12 @@ h2 {
 	font-family: 'Playfair Display', serif;
 	margin: 0;
 	padding: 0;
-	font-size: .9em;
+	font-size: .7em;
 }
 
 .intro, #links {
 	font-family: 'Playfair Display', serif;
-	font-size: 1.5em;
+	font-size: 1.7vw;
 	margin-top: 5vw;
 }
 
@@ -83,10 +87,13 @@ header {
 	font-style: normal;
 }
 .aboutimg1, .aboutimg2, .aboutimg3 {
-	max-width: 100%;
+	max-width: 70%;
 	display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.aboutimg2 {
+	max-width: 50%;
 }
 #artimgs {
 	box-sizing: border-box;
@@ -126,15 +133,27 @@ header {
     margin-right: auto;
 }
 .info {
-	font-size: 1.5em;
+	font-size: 1.7vw;
 	font-family: 'Playfair Display', serif;
 }
 .pagebar {
 	background-color: #688184;
 	width: 100vw;
-	height: 5vw;
-	font-size: 3vw;
+	font-size: 2.5vw;
 	font-family: 'Playfair Display', serif;
 	margin-top: 10vw;
 }
-.pagebar li {margin-left: 2vw;}
+.pagebar li {
+	padding: 1vw 0;
+}
+
+.active {
+    color: white;
+}
+.sitelinks a:hover {color: #688184;}
+
+
+
+@media only screen and (max-width: 1024px) {}
+
+@media only screen and (max-width: 768px) {}
