@@ -10,8 +10,9 @@ body {
 		/*background-color: orange;*/
 }
 .headercontainer {
-		width: 70vw;
+		width: 80vw;
 		margin: 0 auto;
+		text-align: center;
 		/*background-color: orange;*/
 }
 .artworkscontainer {
@@ -94,7 +95,7 @@ h2 {
 	margin-top: 10vw;
 }
 header {
-	font-size: 8vw;
+	font-size: 10vw;
 	font-family: baroque-text-jf, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -223,5 +224,11 @@ p {
 	height: 6.5vw;
 	float: left;
 	margin-top: 10vw;
+}
+h1 {
+	font-size: 9vw;
+}
+h2 {
+	font-size: 4.4vw;
 }
 }
