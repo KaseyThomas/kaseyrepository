@@ -5,6 +5,16 @@ body {
 }
 .navbarcolor {background-color: #688184;}
 .container {
+		width: 60vw;
+		margin: 0 auto;
+		/*background-color: orange;*/
+}
+.headercontainer {
+		width: 70vw;
+		margin: 0 auto;
+		/*background-color: orange;*/
+}
+.artworkscontainer {
 		width: 70vw;
 		margin: 0 auto;
 		/*background-color: orange;*/
@@ -41,10 +51,12 @@ li {
 h1 {
 	font-size: 5vw;
 	text-align: center;
+	margin-bottom: 4vw;
+	margin-top: 5vw;
 }
 h2 {
 	font-size: 3vw;
-	margin-bottom: 0;
+	margin-bottom: 1vw;
 }
 
 .navbar li {
@@ -64,13 +76,14 @@ h2 {
 	font-family: 'Playfair Display', serif;
 	margin: 0;
 	padding: 0;
-	font-size: .7em;
+	font-size: 1.2vw;
 }
 
 .intro, #links {
 	font-family: 'Playfair Display', serif;
-	font-size: 1.7vw;
+	font-size: 1.9vw;
 	margin-top: 5vw;
+	line-height: 3vw;
 }
 
 .bar {
@@ -100,7 +113,7 @@ header {
 	display: block;
 	height: 100vh;
 	width: 75vw;
-	margin-left: 10vw;
+	margin-left: 7vw;
 	margin-right: 10vw;
 	margin-top: 5vw;
 }
@@ -122,8 +135,9 @@ header {
 }
 .pageh1 {
 	text-align: center;
-	font-size: 3em;
+	font-size: 5.3vw;
 	font-family: 'Playfair Display', serif;
+	margin-top: 5vw;
 }
 .pageimg {
 	max-width: 70%;
@@ -131,10 +145,12 @@ header {
 	display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 3vw;
 }
 .info {
-	font-size: 1.7vw;
+	font-size: 1.9vw;
 	font-family: 'Playfair Display', serif;
+	line-height: 3vw;
 }
 .pagebar {
 	background-color: #688184;
@@ -151,9 +167,61 @@ header {
     color: white;
 }
 .sitelinks a:hover {color: #688184;}
+.sitelinks li { 
+	margin-bottom: 1.2vw;
+}
+
+p {
+	margin-top: 0;
+}
 
 
 
 @media only screen and (max-width: 1024px) {}
 
-@media only screen and (max-width: 768px) {}
+@media only screen and (max-width: 768px) {
+	.container {
+		width: 80vw;
+		margin: 0 auto;
+		/*background-color: orange;*/
+}
+.intro, #links {
+	font-family: 'Playfair Display', serif;
+	font-size: 2.7vw;
+	margin-top: 5vw;
+	line-height: 4.2vw;
+}
+.info {
+	font-size: 2.7vw;
+	font-family: 'Playfair Display', serif;
+	line-height: 4.2vw;
+}
+.aboutimg1, .aboutimg2, .aboutimg3 {
+	max-width: 100%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.describe {
+	font-size: 2vw;
+}
+.pageh1 {
+	text-align: center;
+	font-size: 7.2vw;
+	font-family: 'Playfair Display', serif;
+	margin-top: 5vw;
+}
+.navbar {
+	font-size: 4vw;
+}
+.pagebar {
+	font-size: 4vw;
+}
+.bar {
+	background-color: #688184;
+	width: 100vw;
+	height: 6.5vw;
+	float: left;
+	margin-top: 10vw;
+}
+}
