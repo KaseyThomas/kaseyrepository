@@ -124,9 +124,9 @@ header {
 	/*background-color: orange;*/
 	float: left;
 	border: 5px solid #efebe7;
-	 display:flex;
-  align-items:center;
-  justify-content:center;
+	display:flex;
+	display: -webkit-flex;
+  	justify-content:center;
 
 }
 
@@ -178,22 +178,23 @@ p {
 
 
 
+
 @media only screen and (max-width: 1024px) {}
 
 @media only screen and (max-width: 768px) {
 	.container {
-		width: 80vw;
+		width: 90vw;
 		margin: 0 auto;
 		/*background-color: orange;*/
 }
 .intro, #links {
 	font-family: 'Playfair Display', serif;
-	font-size: 2.7vw;
+	font-size: 2.9vw;
 	margin-top: 5vw;
 	line-height: 4.2vw;
 }
 .info {
-	font-size: 2.7vw;
+	font-size: 2.9vw;
 	font-family: 'Playfair Display', serif;
 	line-height: 4.2vw;
 }
